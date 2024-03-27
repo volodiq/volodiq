@@ -1,6 +1,8 @@
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,django,js,html,css,bootstrap,tailwind,git,linux,bash,postgres,docker,redis,neovim,vscode,pycharm" />
+    <img src="https://skillicons.dev/icons?i=python,django,js,html,css,bootstrap,tailwind" />
+    <img src="https://skillicons.dev/icons?i=git,linux,bash,postgres,docker,redis" />
+    <img src="https://skillicons.dev/icons?i=neovim,vscode,pycharm" />
   </a>
 </p>
 
