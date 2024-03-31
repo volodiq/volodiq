@@ -1,7 +1,7 @@
 <p align="center">
     <img src="https://skillicons.dev/icons?i=python,django,js,html,css,bootstrap,tailwind" />
     <br>
-    <img src="https://skillicons.dev/icons?i=git,linux,bash,postgres,docker,redis" />
+    <img src="https://skillicons.dev/icons?i=git,linux,bash,postgres,docker,redis,rabbitmq,celery" />
     <br>  
   <img src="https://skillicons.dev/icons?i=neovim,vscode,pycharm" />
 </p>
