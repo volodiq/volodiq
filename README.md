@@ -1,4 +1,4 @@
-<div align="center">
+<div align="left">
     <img src="https://github.com/volodiq/volodiq/assets/75444126/cce0d12d-a05d-4a3e-ba09-af4d034ec8ff" />
 </div>
 
